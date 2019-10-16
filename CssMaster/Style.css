@@ -12,12 +12,14 @@
   padding-bottom: 20px;
 
 }
-#Header{
+#header{
   width: 100%;
   float: center;
-  background: Orange;
+  background: orange;
+  background-image: url("../img/Pikachu.jpg");
+  background-repeat: no-repeat;
   text-align: center;
-  height: 80px;
+  height: 220px;
   margin-bottom: 5px;
 }
 #Blackilne{
@@ -31,6 +33,7 @@
   float: left;
   width: 30%;
   background: red;
+  height: 50px;
 }
 #content{
   float: left;
@@ -57,5 +60,21 @@ li a{
   padding-right: 14px;
   text-decoration: none;
   font-size: 20px;
-
+}
+Ul1{
+  list-style-type:  none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+Li1{
+  text-decoration: none;
+li1 a{
+display: block;
+text-decoration: none;
+color: black;
+text-align: left;
+padding-left: 14px;
+padding-right: 14px;
+font-size: 20px;
 }
