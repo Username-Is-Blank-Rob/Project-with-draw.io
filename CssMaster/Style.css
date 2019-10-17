@@ -17,6 +17,7 @@
   float: center;
   background: orange;
   background-image: url("../img/Pikachu.jpg");
+  background-position: center;
   background-repeat: no-repeat;
   text-align: center;
   height: 220px;
