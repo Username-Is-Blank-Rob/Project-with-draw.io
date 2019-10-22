@@ -96,5 +96,7 @@ font-size: 25px;
   width: 100%;
   float: left;
   height: 20px;
-  background: #E83B05;
+background: #FF1C05;
+  border-top: 2px solid black;
+  text-align: center;
 }
