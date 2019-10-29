@@ -89,6 +89,9 @@ div#sidebar a {
 div#sidebar a:hover {
   background-color: #FF1C05;
 }
+div#nav a:hover {
+  background-color: #FF1C05;
+}
 
 #footer {
   width: 100%;
